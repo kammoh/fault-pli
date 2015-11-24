@@ -1,0 +1,56 @@
+# vsim -do {do sayeh.do; quit} -lib work -c -pli sayeh_pli.so -quiet -vopt SayehTest 
+# //  ModelSim SE-64 10.1c Jul 27 2012 Linux 3.11.7-200.fc19.x86_64
+# //
+# //  Copyright 1991-2012 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# SUB
+# do sayeh.do 
+# Top module: SayehTest.U1 (SayehTest.U1)
+# Sub-module Index: 6
+# ==Sub-modules:================	==Instance of:==========
+# [0] SayehTest.U1.dp.AU          	AddressingUnit
+# [1] SayehTest.U1.dp.AL          	ArithmeticUnit
+# [2] SayehTest.U1.dp.RF          	RegisterFile
+# [3] SayehTest.U1.dp.IR          	InstructionRegister
+# [4] SayehTest.U1.dp.SR          	StatusRegister
+# [5] SayehTest.U1.dp.WP          	WindowPointer
+# [6] SayehTest.U1.ctrl           	controller
+# ======================================================
+# 
+# Injecting 5 faults on SayehTest.U1.ctrl
+# 
+# Submodule SayehTest.U1.ctrl              	(controller)
+# === Choosing 5 nets out of 22 total nets
+# 	Net: SayehTest.U1.ctrl.Instruction[6]
+# 	Parent module: SayehTest.U1.ctrl
+# 	Value: 3
+# 	New Value: 0
+# 
+# 	Net: SayehTest.U1.ctrl.Instruction[3]
+# 	Parent module: SayehTest.U1.ctrl
+# 	Value: 3
+# 	New Value: 0
+# 
+# 	Net: SayehTest.U1.ctrl.Instruction[0]
+# 	Parent module: SayehTest.U1.ctrl
+# 	Value: 3
+# 	New Value: 0
+# 
+# 	Net: SayehTest.U1.ctrl.Instruction[9]
+# 	Parent module: SayehTest.U1.ctrl
+# 	Value: 3
+# 	New Value: 0
+# 
+# 	Net: SayehTest.U1.ctrl.Instruction[5]
+# 	Parent module: SayehTest.U1.ctrl
+# 	Value: 3
+# 	New Value: 0
+# 
+# 
+# FAULTVECTOR>> 5 
+#  quit 

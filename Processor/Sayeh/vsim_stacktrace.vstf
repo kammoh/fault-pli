@@ -1,0 +1,205 @@
+# Current time Fri Nov  8 00:40:23 2013
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.1c"
+# Version = "2012.07"
+# Date = "Jul 27 2012"
+# Platform = linux_x86_64
+# 0    0x000000000050c0db: '<unknown (@0x50c0db)>'
+# 1    0x000000000050c275: '<unknown (@0x50c275)>'
+# 2    0x000000000068875a: '<unknown (@0x68875a)>'
+# 3    0x0000000000671c79: '<unknown (@0x671c79)>'
+# --> START OF USERCODE
+# 4    0x00007fffe457b8ab: 'compiletf + 0x6b' in './sayeh_pli.so'
+# <-- END OF USERCODE
+# 5    0x0000000000629072: '<unknown (@0x629072)>'
+# 6    0x0000000000629b4e: '<unknown (@0x629b4e)>'
+# 7    0x00000000007802e5: '<unknown (@0x7802e5)>'
+# 8    0x0000000000a75810: '<unknown (@0xa75810)>'
+# 9    0x0000000000e06980: '<unknown (@0xe06980)>'
+# 10   0x0000000000e08259: '<unknown (@0xe08259)>'
+# 11   0x0000000000e300d4: '<unknown (@0xe300d4)>'
+# 12   0x0000000000e32664: '<unknown (@0xe32664)>'
+# 13   0x0000000000e090bd: '<unknown (@0xe090bd)>'
+# 14   0x0000000000e101b2: '<unknown (@0xe101b2)>'
+# 15   0x0000000000e08259: '<unknown (@0xe08259)>'
+# 16   0x0000000000e300d4: '<unknown (@0xe300d4)>'
+# 17   0x0000000000e2c527: '<unknown (@0xe2c527)>'
+# 18   0x0000000000e07aa3: '<unknown (@0xe07aa3)>'
+# 19   0x0000000000e13ae8: '<unknown (@0xe13ae8)>'
+# 20   0x0000000000e08259: '<unknown (@0xe08259)>'
+# 21   0x0000000000e084c8: '<unknown (@0xe084c8)>'
+# 22   0x0000000000ba6407: '<unknown (@0xba6407)>'
+# 23   0x0000000000e3f103: '<unknown (@0xe3f103)>'
+# 24   0x0000000000e6c5ac: '<unknown (@0xe6c5ac)>'
+# 25   0x0000000000e4e38d: '<unknown (@0xe4e38d)>'
+# 26   0x0000000000e4e69d: '<unknown (@0xe4e69d)>'
+# 27   0x0000000000d75376: '<unknown (@0xd75376)>'
+# 28   0x000000000089bc1f: '<unknown (@0x89bc1f)>'
+# End of Stack Trace
+
+
+# Current time Fri Nov  8 00:41:22 2013
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.1c"
+# Version = "2012.07"
+# Date = "Jul 27 2012"
+# Platform = linux_x86_64
+# 0    0x000000000050c0db: '<unknown (@0x50c0db)>'
+# 1    0x000000000050c275: '<unknown (@0x50c275)>'
+# 2    0x000000000068875a: '<unknown (@0x68875a)>'
+# 3    0x0000000000671c79: '<unknown (@0x671c79)>'
+# --> START OF USERCODE
+# 4    0x00007fffe457b8ab: 'compiletf + 0x6b' in './sayeh_pli.so'
+# <-- END OF USERCODE
+# 5    0x0000000000629072: '<unknown (@0x629072)>'
+# 6    0x0000000000629b4e: '<unknown (@0x629b4e)>'
+# 7    0x00000000007802e5: '<unknown (@0x7802e5)>'
+# 8    0x0000000000a75810: '<unknown (@0xa75810)>'
+# 9    0x0000000000e06980: '<unknown (@0xe06980)>'
+# 10   0x0000000000e08259: '<unknown (@0xe08259)>'
+# 11   0x0000000000e300d4: '<unknown (@0xe300d4)>'
+# 12   0x0000000000e32664: '<unknown (@0xe32664)>'
+# 13   0x0000000000e090bd: '<unknown (@0xe090bd)>'
+# 14   0x0000000000e101b2: '<unknown (@0xe101b2)>'
+# 15   0x0000000000e08259: '<unknown (@0xe08259)>'
+# 16   0x0000000000e300d4: '<unknown (@0xe300d4)>'
+# 17   0x0000000000e2c527: '<unknown (@0xe2c527)>'
+# 18   0x0000000000e07aa3: '<unknown (@0xe07aa3)>'
+# 19   0x0000000000e13ae8: '<unknown (@0xe13ae8)>'
+# 20   0x0000000000e08259: '<unknown (@0xe08259)>'
+# 21   0x0000000000e084c8: '<unknown (@0xe084c8)>'
+# 22   0x0000000000ba6407: '<unknown (@0xba6407)>'
+# 23   0x0000000000e3f103: '<unknown (@0xe3f103)>'
+# 24   0x0000000000e6c5ac: '<unknown (@0xe6c5ac)>'
+# 25   0x0000000000e4e38d: '<unknown (@0xe4e38d)>'
+# 26   0x0000000000e4e69d: '<unknown (@0xe4e69d)>'
+# 27   0x0000000000d75376: '<unknown (@0xd75376)>'
+# 28   0x000000000089bc1f: '<unknown (@0x89bc1f)>'
+# End of Stack Trace
+
+
+# Current time Fri Nov  8 01:11:35 2013
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.1c"
+# Version = "2012.07"
+# Date = "Jul 27 2012"
+# Platform = linux_x86_64
+# 0    0x000000000050c0db: '<unknown (@0x50c0db)>'
+# 1    0x000000000050c275: '<unknown (@0x50c275)>'
+# 2    0x000000000068875a: '<unknown (@0x68875a)>'
+# 3    0x0000000000671c79: '<unknown (@0x671c79)>'
+# --> START OF USERCODE
+# 4    0x00007fffe457b8eb: 'compiletf + 0xab' in './sayeh_pli.so'
+# <-- END OF USERCODE
+# 5    0x0000000000629072: '<unknown (@0x629072)>'
+# 6    0x0000000000629b4e: '<unknown (@0x629b4e)>'
+# 7    0x00000000007802e5: '<unknown (@0x7802e5)>'
+# 8    0x0000000000a75810: '<unknown (@0xa75810)>'
+# 9    0x0000000000e06980: '<unknown (@0xe06980)>'
+# 10   0x0000000000e08259: '<unknown (@0xe08259)>'
+# 11   0x0000000000e300d4: '<unknown (@0xe300d4)>'
+# 12   0x0000000000e32664: '<unknown (@0xe32664)>'
+# 13   0x0000000000e090bd: '<unknown (@0xe090bd)>'
+# 14   0x0000000000e101b2: '<unknown (@0xe101b2)>'
+# 15   0x0000000000e08259: '<unknown (@0xe08259)>'
+# 16   0x0000000000e300d4: '<unknown (@0xe300d4)>'
+# 17   0x0000000000e2c527: '<unknown (@0xe2c527)>'
+# 18   0x0000000000e07aa3: '<unknown (@0xe07aa3)>'
+# 19   0x0000000000e13ae8: '<unknown (@0xe13ae8)>'
+# 20   0x0000000000e08259: '<unknown (@0xe08259)>'
+# 21   0x0000000000e084c8: '<unknown (@0xe084c8)>'
+# 22   0x0000000000ba6407: '<unknown (@0xba6407)>'
+# 23   0x0000000000e3f103: '<unknown (@0xe3f103)>'
+# 24   0x0000000000e6c5ac: '<unknown (@0xe6c5ac)>'
+# 25   0x0000000000e4e38d: '<unknown (@0xe4e38d)>'
+# 26   0x0000000000e4e69d: '<unknown (@0xe4e69d)>'
+# 27   0x0000000000d75376: '<unknown (@0xd75376)>'
+# 28   0x000000000089bc1f: '<unknown (@0x89bc1f)>'
+# End of Stack Trace
+
+
+# Current time Fri Nov  8 01:14:22 2013
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.1c"
+# Version = "2012.07"
+# Date = "Jul 27 2012"
+# Platform = linux_x86_64
+# 0    0x000000000050c0db: '<unknown (@0x50c0db)>'
+# 1    0x000000000050c275: '<unknown (@0x50c275)>'
+# 2    0x000000000068875a: '<unknown (@0x68875a)>'
+# 3    0x0000000000671c79: '<unknown (@0x671c79)>'
+# --> START OF USERCODE
+# 4    0x00007fffe457b8eb: 'compiletf + 0xab' in './sayeh_pli.so'
+# <-- END OF USERCODE
+# 5    0x0000000000629072: '<unknown (@0x629072)>'
+# 6    0x0000000000629b4e: '<unknown (@0x629b4e)>'
+# 7    0x00000000007802e5: '<unknown (@0x7802e5)>'
+# 8    0x0000000000a75810: '<unknown (@0xa75810)>'
+# 9    0x0000000000e06980: '<unknown (@0xe06980)>'
+# 10   0x0000000000e08259: '<unknown (@0xe08259)>'
+# 11   0x0000000000e300d4: '<unknown (@0xe300d4)>'
+# 12   0x0000000000e32664: '<unknown (@0xe32664)>'
+# 13   0x0000000000e090bd: '<unknown (@0xe090bd)>'
+# 14   0x0000000000e101b2: '<unknown (@0xe101b2)>'
+# 15   0x0000000000e08259: '<unknown (@0xe08259)>'
+# 16   0x0000000000e300d4: '<unknown (@0xe300d4)>'
+# 17   0x0000000000e2c527: '<unknown (@0xe2c527)>'
+# 18   0x0000000000e07aa3: '<unknown (@0xe07aa3)>'
+# 19   0x0000000000e13ae8: '<unknown (@0xe13ae8)>'
+# 20   0x0000000000e08259: '<unknown (@0xe08259)>'
+# 21   0x0000000000e084c8: '<unknown (@0xe084c8)>'
+# 22   0x0000000000ba6407: '<unknown (@0xba6407)>'
+# 23   0x0000000000e3f103: '<unknown (@0xe3f103)>'
+# 24   0x0000000000e6c5ac: '<unknown (@0xe6c5ac)>'
+# 25   0x0000000000e4e38d: '<unknown (@0xe4e38d)>'
+# 26   0x0000000000e4e69d: '<unknown (@0xe4e69d)>'
+# 27   0x0000000000d75376: '<unknown (@0xd75376)>'
+# 28   0x000000000089bc1f: '<unknown (@0x89bc1f)>'
+# End of Stack Trace
+
+
+# Current time Fri Nov  8 01:18:07 2013
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.1c"
+# Version = "2012.07"
+# Date = "Jul 27 2012"
+# Platform = linux_x86_64
+# 0    0x000000000050c0db: '<unknown (@0x50c0db)>'
+# 1    0x000000000050c275: '<unknown (@0x50c275)>'
+# 2    0x000000000068875a: '<unknown (@0x68875a)>'
+# 3    0x0000000000671c79: '<unknown (@0x671c79)>'
+# --> START OF USERCODE
+# 4    0x00007fffe457b925: 'compiletf + 0xe5' in './sayeh_pli.so'
+# <-- END OF USERCODE
+# 5    0x0000000000629072: '<unknown (@0x629072)>'
+# 6    0x0000000000629b4e: '<unknown (@0x629b4e)>'
+# 7    0x00000000007802e5: '<unknown (@0x7802e5)>'
+# 8    0x0000000000a75810: '<unknown (@0xa75810)>'
+# 9    0x0000000000e06980: '<unknown (@0xe06980)>'
+# 10   0x0000000000e08259: '<unknown (@0xe08259)>'
+# 11   0x0000000000e300d4: '<unknown (@0xe300d4)>'
+# 12   0x0000000000e32664: '<unknown (@0xe32664)>'
+# 13   0x0000000000e090bd: '<unknown (@0xe090bd)>'
+# 14   0x0000000000e101b2: '<unknown (@0xe101b2)>'
+# 15   0x0000000000e08259: '<unknown (@0xe08259)>'
+# 16   0x0000000000e300d4: '<unknown (@0xe300d4)>'
+# 17   0x0000000000e2c527: '<unknown (@0xe2c527)>'
+# 18   0x0000000000e07aa3: '<unknown (@0xe07aa3)>'
+# 19   0x0000000000e13ae8: '<unknown (@0xe13ae8)>'
+# 20   0x0000000000e08259: '<unknown (@0xe08259)>'
+# 21   0x0000000000e084c8: '<unknown (@0xe084c8)>'
+# 22   0x0000000000ba6407: '<unknown (@0xba6407)>'
+# 23   0x0000000000e3f103: '<unknown (@0xe3f103)>'
+# 24   0x0000000000e6c5ac: '<unknown (@0xe6c5ac)>'
+# 25   0x0000000000e4e38d: '<unknown (@0xe4e38d)>'
+# 26   0x0000000000e4e69d: '<unknown (@0xe4e69d)>'
+# 27   0x0000000000d75376: '<unknown (@0xd75376)>'
+# 28   0x000000000089bc1f: '<unknown (@0x89bc1f)>'
+# End of Stack Trace
+
+

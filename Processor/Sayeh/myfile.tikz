@@ -1,0 +1,42 @@
+% This file was created by matplotlib v0.1.0.
+% Copyright (c) 2010--2012, Nico Schlömer <nico.schloemer@gmail.com>
+% All rights reserved.
+% 
+% The lastest updates can be retrieved from
+% 
+% https://github.com/nschloe/matplotlib2tikz
+% 
+% where you can also submit bug reports and leavecomments.
+% 
+
+\begin{tikzpicture}
+
+\begin{axis}[
+title={Histogram of IQ},
+xlabel={Smarts},
+ylabel={Probability},
+xmin=100, xmax=160,
+ymin=0, ymax=0.03,
+axis on top,
+width=\figurewidth,
+height=\figureheight,
+xmajorgrids,
+ymajorgrids
+]
+\path [draw=black, fill opacity=0] (axis cs:13,0.03)--(axis cs:13,0.03);
+
+\path [draw=black, fill opacity=0] (axis cs:160,13)--(axis cs:160,13);
+
+\path [draw=black, fill opacity=0] (axis cs:13,-4.33680868994202e-19)--(axis cs:13,-4.33680868994202e-19);
+
+\path [draw=black, fill opacity=0] (axis cs:100,13)--(axis cs:100,13);
+
+\node at (axis cs:60,0.025)[
+  scale=0.6,
+  anchor=base west,
+  text=black,
+  rotate=0.0
+]{ $\mu=100,\ \sigma=15$};
+\end{axis}
+
+\end{tikzpicture}
